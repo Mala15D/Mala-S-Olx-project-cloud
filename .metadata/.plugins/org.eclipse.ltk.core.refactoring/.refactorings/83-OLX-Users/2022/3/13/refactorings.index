@@ -1,0 +1,24 @@
+1648095734266	Rename package 'configuration'
+1648095844492	Rename package 'filter'
+1648096344814	Rename package 'util'
+1648096923430	Rename package 'service'
+1648096940828	Copy compilation unit
+1648096951674	Delete element
+1648097066070	Rename type 'ZensarUserDetailsService'
+1648097298804	Copy compilation unit
+1648097304405	Delete element
+1648097381037	Rename package 'com.zensar.olx.filter'
+1648098686617	Rename package 'com.zensar.olx.util'
+1648125376045	Rename package 'com.zensar.olx.jwt.util'
+1648126091230	Delete element
+1648126313570	Delete element
+1648127008266	Delete element
+1648127015502	Delete element
+1648127024233	Delete element
+1648127032881	Delete element
+1648127257539	Rename package 'configuration'
+1648127447896	Rename package 'util'
+1648127555129	Rename package 'filter'
+1648127576302	Rename package 'com.zensar.olx.jwt.util'
+1648128243151	Rename package 'service'
+1648128580363	Rename type 'ZensarUserDetailsService'

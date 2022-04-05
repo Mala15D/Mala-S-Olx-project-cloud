@@ -1,0 +1,5 @@
+package com.zensar.olx.db;
+
+public class TokenStorage {
+
+}

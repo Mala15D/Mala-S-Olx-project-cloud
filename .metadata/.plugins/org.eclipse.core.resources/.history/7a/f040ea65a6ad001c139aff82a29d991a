@@ -1,0 +1,14 @@
+package com.zensar.olx.db;
+
+import java.util.Map;
+
+public class TokenStorage {
+
+	private Map<String, String> tokenCache;
+	private Map<String,String> getCache(){
+		return this.tokenCache;
+	}
+	public static void storeToken(String key,String token) {
+		tokenC
+	}
+}

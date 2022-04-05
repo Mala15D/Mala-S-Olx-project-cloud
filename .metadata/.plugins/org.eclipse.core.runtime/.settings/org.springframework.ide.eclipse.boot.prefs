@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.actuator=3
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-eureka=4
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-eureka-server=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-gateway=1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=OlxApigateway
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=2.6.5
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=olx apigateway
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.zensar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=1.8
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=OlxApigateway
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.zensar.apigateway
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
+org.springframework.ide.eclipse.boot.wizard.initializr.url=https\://start.spring.io\n

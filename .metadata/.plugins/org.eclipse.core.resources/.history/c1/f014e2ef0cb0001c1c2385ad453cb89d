@@ -1,0 +1,19 @@
+server.port=9090
+
+spring.application.name=apigateway
+
+eureka.client.service-url.defaultZone=http://localhost:8761/eureka
+
+
+#Following property is needed so that PAI gateway can find microservice using it name in eureka discovery
+spring.cloud.gateway.discovery.locator.enabled=true
+
+#helps to find API gateway to find microservices names in lower case
+spring.cloud.gateway.discovery.locator.lower-case-service-id=true
+
+logging.level.root=debug
+
+
+#spring.sleuth.reactor.instrumentation-type=decorate-on-each
+
+#spring.zipkin.base-url=http://localhost:9411
